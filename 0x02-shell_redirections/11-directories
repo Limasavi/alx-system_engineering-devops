@@ -1,1 +1,2 @@
-VimCrypt~03!À´˜1ğ.W˜èÓ˜³v’º|ŠÅä1á!ÿàM– OkÁ¹¥•Ì/µäÜ¹#Éë9Ô•kÒ.Ähá³#+Íè
+#!/bin/bash
+find . -type d -not -name '.' | wc -l

@@ -1,1 +1,2 @@
-VimCrypt~03!¨ğ;ŸéT?,èĞ·Y7|4ÄÂ$a=ºĞ§-8®Ùè¯\´ËİB©
+#!/bin/bash
+tail -n 1 < iacta >> iacta
