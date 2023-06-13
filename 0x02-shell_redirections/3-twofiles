@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /etc/passwd /etc/host
+ls -la /etc/passwd /etc/host
